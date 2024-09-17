@@ -91,7 +91,8 @@ body {
 .categories p:hover {
     transition: 1s;
     background-color: transparent;
-    border: solid #a435a4;
+    border: solid #a435a4 1px;
+    color: black;
 }
 
 .sale-image {
